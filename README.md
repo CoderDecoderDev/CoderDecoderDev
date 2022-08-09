@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 📫 <strong>How to reach me:</strong> email: kovacevic_mladen@hotmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Mladen_Kovacevic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mladen-kova%C4%8Devi%C4%87-62b238a1//)](https://www.linkedin.com/in/mladen-kova%C4%8Devi%C4%87-62b238a1/) </br>
 :blue_heart:<strong> Interests:</strong> :books: books (favorite ones: "How to Win Friends and Influence People", "Atomic Habits", "The Power of Habit", "Homo Sapiens", and "Homo Deus"), :tennis: tennis, :swimmer: swimming, and :bike: riding a bike.
 
-<strong></strong>
-<strong></strong>
-<strong></strong>
