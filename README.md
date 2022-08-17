@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Vue.js</br>
 ⚡ <strong>Languages:</strong> HTML, CSS, SCSS, Bootstrap, JavaScript, Vue.js</br>
+:chains: <strong>Version Control Software: </strong>Git</br>
 💬 <strong>Other languages:</strong> English: C2, German: B2</br>
 🔧 <strong>Code editor: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)</strong> </br>
 📫 <strong>How to reach me:</strong> email: kovacevic_mladen@hotmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Mladen_Kovacevic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mladen-kova%C4%8Devi%C4%87-62b238a1//)](https://www.linkedin.com/in/mladen-kova%C4%8Devi%C4%87-62b238a1/) </br>
