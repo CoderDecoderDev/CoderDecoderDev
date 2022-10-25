@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### Welcome to my profile! I am a front-end developer who is passionate about coding and solving problems.
 -----
 🌱 I’m currently learning Vue.js</br>
-⚡ <strong>Languages:</strong> HTML, CSS, SCSS, Bootstrap, JavaScript, Vue.js</br>
+⚡ <strong>Languages:</strong> HTML, CSS, SCSS, Bootstrap, Bulma, JavaScript, Vue.js</br>
 :chains: <strong>Version Control Software: </strong>Git</br>
 💬 <strong>Other languages:</strong> English: C2, German: B2</br>
 🔧 <strong>Code editor: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)</strong> </br>
