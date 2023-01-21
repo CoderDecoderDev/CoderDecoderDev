@@ -1,5 +1,5 @@
 ## Hi there 👋
-### NB: The projects that I've been making for my clients are under the NDA agreement. The repositories that you see here are just for the sake of showing some of my skills.
+### NB: The projects that I've been making for my clients are under the NDA (non-disclosure agreement). The repositories that you see here are just for the sake of showing some of my skills.
 <!--
 **CoderDecoderDev/CoderDecoderDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
