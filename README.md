@@ -1,5 +1,6 @@
 ## Hi there 👋
-### NB: The projects that I've been making for my clients are under the NDA (non-disclosure agreement). The repositories that you see here are just for the sake of showing some of my skills.
+#### Welcome to my profile! I am a front-end developer who is passionate about coding and solving problems.
+#### NB: The projects that I've been making for my clients are under the NDA (non-disclosure agreement). The repositories that you see here are just for the sake of showing some of my skills.
 <!--
 **CoderDecoderDev/CoderDecoderDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Welcome to my profile! I am a front-end developer who is passionate about coding and solving problems.
+
 -----
 <!-- 🌱 I’m currently learning Vue.js</br> -->
 ⚡ <strong>Languages:</strong> HTML, CSS, SCSS, Bootstrap, Bulma, JavaScript, Vue.js</br>
